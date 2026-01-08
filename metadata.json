@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of TradeJournal AI India",
+  "description": "A professional trading journal for Indian markets featuring Gemini-powered strategy coaching, psychological analysis, and performance analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
