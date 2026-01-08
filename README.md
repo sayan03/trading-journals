@@ -11,7 +11,9 @@ View your app in AI Studio: https://ai.studio/apps/drive/1oaz75C3w4y35HM-_1Y-DJn
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="" />
+</div>
 
 1. Install dependencies:
    `npm install`
