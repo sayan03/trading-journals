@@ -46,7 +46,7 @@ Here are some screenshots of the app in action. Replace the image paths with you
 ![AI Mentor](https://i.postimg.cc/yx1h5wfN/Screenshot_2026_01_09_090605.png)
 
 ### Trading Quotes
-![Quotes]()
+![Quotes](https://i.postimg.cc/L5PqxvSD/image.png)
 
 ---
 
