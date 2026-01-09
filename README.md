@@ -25,28 +25,28 @@ A beginner-friendly Trading Journal Web Application to help traders log trades, 
 Here are some screenshots of the app in action. Replace the image paths with your own image URLs.
 
 ### Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](https://i.postimg.cc/Ss77gyGn/Screenshot-2026-01-09-090927.png)
 
 ### Dashboard (Light Mode)
-![Dashboard Light](screenshots/dashboard-light.png)
+![Dashboard Light](https://i.postimg.cc/kGJNZkjK/Screenshot_2026_01_09_090838.png)
 
 ### Dashboard (Dark Mode)
-![Dashboard Dark](screenshots/dashboard-dark.png)
+![Dashboard Dark](https://i.postimg.cc/wMq5PSWc/Screenshot_2026_01_09_090858.png)
 
 ### Log Trade Form
-![Log Trade](screenshots/log-trade.png)
+![Log Trade](https://i.postimg.cc/L59k7ry4/Screenshot_2026_01_09_090634.png)
 
 ### Trade History
-![Trade History](screenshots/trade-history.png)
+![Trade History](https://i.postimg.cc/Vvf9T37b/Screenshot_2026_01_09_090755.png)
 
 ### Risk Calculator
-![Risk Calculator](screenshots/risk-calculator.png)
+![Risk Calculator](https://i.postimg.cc/C5hCtWv1/Screenshot_2026_01_09_090537.png)
 
 ### AI Mentor Analysis
-![AI Mentor](screenshots/ai-mentor.png)
+![AI Mentor](https://i.postimg.cc/yx1h5wfN/Screenshot_2026_01_09_090605.png)
 
 ### Trading Quotes
-![Quotes](screenshots/quotes.png)
+![Quotes]()
 
 ---
 
